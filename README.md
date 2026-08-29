@@ -1,5 +1,5 @@
 # giang_sinh_an_lanh
-Mở bằng VS Code, Git trể tránh bị mất ảnh
+Mở bằng VS Code, Git trể tránh bị mất ảnh,
 Xem thử https://bvd0101.github.io/giang_sinh_an_lanh/
 
 ### Ủng hộ tác giả (Donate)
